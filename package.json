@@ -31,7 +31,7 @@
     "crypto-random-string": "^3.0.1",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.6",
+    "express-fileupload": "^1.1.9",
     "express-xml-bodyparser": "^0.3.0",
     "file-extension": "^4.0.5",
     "flattree": "^0.11.1",
